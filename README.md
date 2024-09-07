@@ -56,7 +56,7 @@ Follow these steps to reproduce the results:
 
 - Execute the script to start processing the videos:
     ```sh
-    python script_name.py
+    python main..ipynb
     ```
 
 - The script will read each video from the `input_dir`, process it, and save the output in the `output_dir` directory (`/kaggle/working/output`).
