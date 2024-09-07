@@ -1,7 +1,7 @@
 # Child-and-Therapist-Classification-and-tracking
 ## Overview
 
-This project focuses on analyzing video files by leveraging object detection and tracking techniques. The primary goal is to detect objects (child and therapist) in each frame of a video and track their movements across frames. The analysis is performed using the YOLO (You Only Look Once) model for object detection and the DeepSORT (Simple Online and Realtime Tracking with a Deep Association Metric) algorithm for tracking.
+This assignment focuses on analyzing video files by leveraging object detection and tracking techniques. The primary goal is to detect objects (child and therapist) in each frame of a video and track their movements across frames. The analysis is performed using the YOLO (You Only Look Once) model for object detection and the DeepSORT (Simple Online and Realtime Tracking with a Deep Association Metric) algorithm for tracking.
 
 ## Workflow
 
